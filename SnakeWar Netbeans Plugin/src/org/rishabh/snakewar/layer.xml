@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="Samples">
+                <folder name="J2ME_MIDP">
+                    <file name="SnakeWarProject.zip" url="SnakeWarProject.zip">
+                        <attr name="SystemFileSystem.icon" urlvalue="nbresloc:/org/netbeans/modules/mobility/midpexamples/j2meProject.gif"/>
+                        <attr name="SystemFileSystem.localizingBundle" stringvalue="org.rishabh.snakewar.Bundle"/>
+                        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.mobility.project.ui.wizard.SampleProjectIterator"/>
+                        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/rishabh/snakewar/SnakeWarDescription.html"/>
+                        <attr name="template" boolvalue="true"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

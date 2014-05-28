@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.rishabh.snakewar">
+    <module_version install_time="1269025751252" last="true" origin="installer" specification_version="1.0">
+        <file crc="2740342048" name="config/Modules/org-rishabh-snakewar.xml"/>
+        <file crc="2916549851" name="modules/org-rishabh-snakewar.jar"/>
+    </module_version>
+</module>
